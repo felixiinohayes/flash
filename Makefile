@@ -1,4 +1,4 @@
-main = add-numbers
+main = hello-world-gtk
 FFLAGS = gtk4
  
 FC = gcc
